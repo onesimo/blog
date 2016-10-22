@@ -1,4 +1,2 @@
----
-currentMenu: home
----
+ 
 # Person blog 
