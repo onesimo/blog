@@ -3,7 +3,7 @@ description: Blogging about stuffs
 meta_description: "Onésimo Batista, Tech, Music and Languages"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
