@@ -1,11 +1,11 @@
 template:
     directory: .
     url: https://github.com/CouscousPHP/Template-Dark
-    baseUrl: http://onesimo.github.io/blog
+    baseUrl: http://onesimo.github.io/blog/
 
 github:
-    user: CouscousPHP
-    repo: Template-Dark
+    user: onesimo
+    repo: blog
 
 title: Couscous template
 subTitle: The dark template for Couscous.
