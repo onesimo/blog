@@ -1,6 +1,8 @@
 template:
     directory: .
 
+baseUrl: http://onesimo.github.io/blog
+
 github:
     user: CouscousPHP
     repo: Template-Dark
