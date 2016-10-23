@@ -1,16 +1,16 @@
 name: Onésimo Batista
-description: Blogging about stuffs
-meta_description: "Onésimo Batista, Tech, Music and Languages"
+description: Blogging about stuffs like tecnologies, music and languages
+meta_description: "Onésimo Batista, Tech, Music, Languages"
 
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'https://onesimo.github.io/blog/'
+domain_name: 'https://onesimo.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'https://onesimo.github.io/blog/'
+url:            'https://onesimo.github.io'
 author:         'Onésimo Batista'
