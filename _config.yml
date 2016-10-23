@@ -1,9 +1,9 @@
 name: Onésimo Batista
-description: Blogging about stuffs like tecnologies, music and languages
+description: Tech, music and Languages
 meta_description: "Onésimo Batista, Tech, Music, Languages"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
