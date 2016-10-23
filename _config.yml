@@ -14,3 +14,5 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'https://onesimo.github.io'
 author:         'Onésimo Batista'
+
+img_path: /assets/images/
