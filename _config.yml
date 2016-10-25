@@ -24,6 +24,6 @@ author:
     email: 'onesimobatista@gmail.com'
 
 urls:
-  about: /about
+  about: /about/
 
 img_path: /assets/images/
