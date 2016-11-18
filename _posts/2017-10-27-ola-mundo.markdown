@@ -9,6 +9,6 @@ categories: Hello Word
 {% highlight ruby %}
 print('Hello Word!')
 {% endhighlight %}
-Este é o meu primeiro post, a partir de agora este local passa ser um acervo de meus estudos com intuito de compartilhar conhecimento, irei escrever sobre desenvolvimento de software, música e idiomas. 
+Este é o meu primeiro post, a partir de agora este local passa ser o acervo de meus estudos com foco em tecnologia, música e idiomas, a idéia reforçar o que venho aprendendo e também compartilhar conhecimento. 
 
 Bem-vindos a esta jornada!
