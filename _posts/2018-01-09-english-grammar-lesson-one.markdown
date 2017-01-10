@@ -2,7 +2,7 @@
 layout: post
 title:  "#EnglishGrammar, Lesson one - The Article"
 date:   2018-01-09 23:32:00
-categories: English grammar lesson one
+categories: English grammar lesson
 ---
 
 O artigo é uma palavra que antecede o substantivo, especificando ou delimitando o seu significado.
