@@ -1,14 +1,35 @@
 ---
 layout: post
-title:  "Olá Mundo!"
-date:   2017-11-10 10:18:00
-categories: Hello Word
+title:  "#EnglishGrammar, Lesson one - The Article"
+date:   2018-01-09 23:32:00
+categories: English grammar lesson one
 ---
 
- 
-{% highlight ruby %}
-print('Hello Word!');
-{% endhighlight %}
-Este é o meu primeiro post, a partir de agora este local passa ser um acervo de meus estudos com intuito de compartilhar conhecimento, irei escrever sobre desenvolvimento de software, música e idiomas. 
+O artigo é uma palavra que antecede o substantivo, especificando ou delimitando o seu significado.
 
-Bem-vindos a esta jornada!
+Há dois tipos de artigos em inglês: o definido(definite article) e o indefinido (indefinite article).
+
+O artigo definido the é usado no singular ou plural e antes de substantivos masculinos, femininos ou neutros, sem que haja variação em sua forma. Equivale em português a: o(s), a(s).
+
+Exemplos: The man (o homen)
+		  The woman (a mulher)
+		  The boys (os meninos)
+		  The girls (as meninas)
+		  The pen (a caneta)
+		  The pens (as canetas)
+
+Usamos o artigo definido:
+
+a) Antes de substantivos usados em sentido restrito.
+
+Exemplos: The book on the table is mine.
+		  O livro sobre a mesa é meu.
+		  The children are playing in the yard.
+		  As crianças estão brincando no pátio.
+
+a) Antes de nomes de animais no singular, indicando toda a espécie.
+
+Exemplos: The dog is a faithful animal.
+		  O cão é um animal fiel.
+		  The lion is a very dangerous animal.
+		  O leão é um animal muito perigoso.
