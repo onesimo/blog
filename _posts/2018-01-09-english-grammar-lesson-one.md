@@ -11,7 +11,7 @@ Há dois tipos de artigos em inglês: o definido(definite article) e o indefinid
 O artigo definido the é usado no singular ou plural e antes de substantivos masculinos, femininos ou neutros, sem que haja variação em sua forma. Equivale em português a: o(s), a(s).
 
 Exemplos:
-<p>- The man (o homen).
+- The man (o homen).
 - The woman (a mulher).
 - The boys (os meninos).
 - The girls (as meninas).
