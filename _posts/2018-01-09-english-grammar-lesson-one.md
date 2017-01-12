@@ -19,15 +19,15 @@ Exemplos:
 * The pen (a caneta).
 * The pens (as canetas).
 
-### Usamos o artigo definido:
+#### Usamos o artigo definido:
 
 a) Antes de substantivos usados em sentido restrito.
 Exemplos: 
 
 * The book on the table is mine.
-* O livro sobre a mesa é meu.
+	O livro sobre a mesa é meu.
 * The children are playing in the yard.
-* As crianças estão brincando no pátio.
+	As crianças estão brincando no pátio.
 
 a) Antes de nomes de animais no singular, indicando toda a espécie.
 
