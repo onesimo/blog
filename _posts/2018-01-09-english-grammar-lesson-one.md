@@ -22,6 +22,7 @@ Exemplos:
 #### Usamos o artigo definido:
 
 a) Antes de substantivos usados em sentido restrito.
+
 Exemplos: 
 
 * The book on the table is mine.
