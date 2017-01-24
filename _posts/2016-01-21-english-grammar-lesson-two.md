@@ -5,10 +5,10 @@ date:   2018-01-21 23:19:00
 categories: English grammar lesson
 ---
 
-	O artigo indefinido "a" ou "an" (um e uma), é usado somente antes 
+O artigo indefinido "a" ou "an" (um e uma), é usado somente antes 
 de substantivos contáveis no singular, concordando com o masculino, o feminino e o neutro.
 
-	"A" e "an" possuem o mesmo significado. "A" é usado diante de 
+"A" e "an" possuem o mesmo significado. "A" é usado diante de 
 palavras iniciadas por consoantes, semivogais (y e w), "u" com son de /iu/ e "h" aspirado. "An" é usado antes de palavras inciadas por vogais e "h" não aspirado.
 
 Exemplos:
