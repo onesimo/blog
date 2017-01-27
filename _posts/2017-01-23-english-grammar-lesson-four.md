@@ -72,19 +72,19 @@ para aves: cock (macho de ave), hen (fêmea de ave)
 
 Exemplos:
 
-* policeman - policial
-* girlfriend - namorada
-* a male cousin - primo
-* he-cat - gato 
-* she-cat - gata
-* cock-pigeon - pombo
-* hen-pigeon - pomba
+* policeman (policial)
+* girlfriend (namorada)
+* a male cousin (primo)
+* he-cat (gato)
+* she-cat (gata)
+* cock-pigeon (pombo)
+* hen-pigeon (pomba)
 
 
 ### Alguns substantivos no gênero masculino e feminino
 
-* father - pai
-* grandfather (avô)
+* father (pai) - mother (mãe)
+* grandfather (avô) - grandmother (avó)
 
 
 
