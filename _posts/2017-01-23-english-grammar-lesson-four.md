@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#EnglishGrammar, Lesson four - Gender "
-date:   2018-01-23 23:47:00
+date:   2017-01-23 23:47:00
 categories: English grammar lesson
 ---
 
@@ -82,10 +82,40 @@ Exemplos:
 
 
 ### Alguns substantivos no gênero masculino e feminino
-
+ 
 * father (pai) - mother (mãe)
 * grandfather (avô) - grandmother (avó)
-
+* son (filho) - daughter (filha)
+* brother (irmão) - sister (irmã)
+* grandson (neto) - granddaughter(neta)
+* uncle (tio) - aunt (tia)
+* husband (marido) - wife (esposa)
+* nephew (sobrinho) - niece (sobrinha)
+* lad (rapaz) - lass (moça)
+* fiancé (noivo) - fiancée (noiva)
+* groom (noivo) - bride (noiva, no dia do casamento)
+* bachelor (solteiro) - spinster (solteira)
+* widower (viúvo) - widow (viúva)
+* father-in-law (sogro) - mother-in-law (sogra)
+* brother-in-law (cunhado) - sister-in-law (cunhada)
+* son-in-law (genro) - daughter-in-law (nora)
+* King (rei) - Queen (rainha)
+* lord (senhor) - lady (senha, dama - nobreza)
+* sir (senhor) - madam (madame)
+* count (conde) - countess (condessa)
+* master (proprietário) - mastress (proprietária)
+* host (anfitrião) - hostess (anfitriã)
+* prince (príncipe) - princess (princesa)
+* God (Deus) - Goddess (deusa)
+* poet (poeta) - poetess (poetista)
+* monk (monge) - nun (freira)
+* murderer (assassino) - murderess (assassina)
+* wizard (bruxo) - witch (bruxa)
+* dog (cão) - bitch (cadela)
+* horse (cavalo) - mare (égua)
+* bull (touro) - cow (vaca)
+* lion (leão) - lioness (leoa)
+* tiger (tigre) - tigeress (tigre fêmea)
 
 
 
