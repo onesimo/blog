@@ -5,7 +5,6 @@ date:   2016-01-09 23:32:00
 categories: English grammar lesson
 ---
 
-
 Há dois tipos de artigos em inglês: o definido(definite article) e o indefinido (indefinite article).
 
 O artigo definido the é usado no singular ou plural e antes de substantivos masculinos, femininos ou neutros, sem que haja variação em sua forma. Equivale em português a: o(s), a(s).

@@ -4,7 +4,6 @@ title:  "#EnglishGrammar, Lesson two - The Indefinite Article"
 date:   2016-01-21 23:19:00
 categories: English grammar lesson
 ---
-
 O artigo indefinido "a" ou "an" (um e uma), é usado somente antes 
 de substantivos contáveis no singular, concordando com o masculino, o feminino e o neutro.
 
