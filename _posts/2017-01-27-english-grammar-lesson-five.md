@@ -159,4 +159,46 @@ Exemplos:
 * The police are looking for the murderer - A polícia está procurando o assassino.
 
 
+Algumas palavras têm forma de plural, mas são usadas com o verbo no singular.
+
+a) Nome de ciências com final "ics".
+
+* Mathematics, Phisics, Politics. (Matemática, Física, Política)
+* Mathematics deals with quantities. (A matemática lida com quantidade)
+
+b) Palavras como: news(notícia(s), novidade(s) ou noticiário).
+
+Exemplos:
+
+* I hear the news on the radio every day - Eu ouço as notícias/o noticiário no rádio todos os dias.
+* He gave me two sad pieces of news - Ele me deu duas tristes notícias.
+
+Algumas palavras têm forma de singular, sentido de plural, mas verbo só no singular.
+
+* information (informação - informações)
+* advice (conselho - conselhos)
+* furniture (mobília - mobílias)
+
+Exemplos:
+
+* The furniture is new - A mobília/as mobílias é/são nova/novas - Eu recebi um conselho ontem.
+* I received a piece of advice yesterday - Eu recebi um conselho ontem.
+
+Algumas palavras de origem greco-latina, continuam seguindo as regras de sua própria língua.
+
+Exemplos:
+
+Singular - Plural
+
+* datum - data (dado, informação)
+* basis - bases (base)
+* crisis - crises (crise)
+* nucleus - nuclei (núcleo)
+* radius - radii (radio)
+* phenomenon - phenomena (fenômeno)
+* formula - formulae (fórmulas)
+* alumna - alumnae (aluna)
+
+
+
 
