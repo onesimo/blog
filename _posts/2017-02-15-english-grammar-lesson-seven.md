@@ -87,3 +87,11 @@ one of + Possessive Adjective + noun
 - corrsponde a
 a + noun + of + Possessive Pronoun
 
+Exemplos
+
+* Bob is one of my friends (Bob é um dos meus amigos).
+* Bob is a friend of mine (Bob é um amigo meu).
+* That is one of her books (Aquele é um de seus livros).
+* That is a book of hers (Aquele é um dela).
+
+ 
