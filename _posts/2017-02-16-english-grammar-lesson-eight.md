@@ -23,3 +23,23 @@ PRONOMES REFLEXIVOS
 2ª pessoa - yourselves
 
 3ª pessoa - themselves
+
+Exemplos:
+
+* I hurt myself with a broken bottle.
+* She saw herself in the mirror.
+* They enjoy themselves playing football.
+* He is able to take care of himself.
+
+Observação
+
+Os Sseguintes verbos não podem ser seguidos de pronome reflexivo:
+
+* to become - tornar-se
+* to care - importa-se
+* to dare - atrever-se
+* to marry - casar-se
+* to mind - importar-se
+* to remember - lembrar-se
+* to sit down - sentar-se
+* to stand up - levantar-se
