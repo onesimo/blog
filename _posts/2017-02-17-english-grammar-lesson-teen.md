@@ -24,7 +24,7 @@ Ambos referem-se a pessoas, animais ou coisas que se encontram distantes de quem
 Exemplos
 
 * What it is this? - O que é isto?
-* This is a pencil - Isso é uma lápis
+* This is a pencil - Isso é um lápis
 * That man is my father - Aquele homem é meu pai
 * These girls are his sister - Aqueles garotas são irmães dele
 * What are this boys doing? - O que estes meninos estão fazendo?
