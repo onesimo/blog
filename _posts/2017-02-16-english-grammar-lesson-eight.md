@@ -43,3 +43,5 @@ Os Sseguintes verbos não podem ser seguidos de pronome reflexivo:
 * to remember - lembrar-se
 * to sit down - sentar-se
 * to stand up - levantar-se
+
+
