@@ -18,4 +18,4 @@ Exemplos:
 Alguns adjetivos mais usados:
 
 
-big/large | grande | | litle/small | pequeno
+big/large | grande | - | litle/small | pequeno
