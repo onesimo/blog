@@ -19,3 +19,13 @@ Alguns adjetivos mais usados:
 
 
 big/large | grande | - | litle/small | pequeno
+black | preto | - | white | branco
+blunt | cego | - | sharp | afiado
+ |  | - |  | 
+ |  | - |  | 
+ |  | - |  | 
+ |  | - |  | 
+ |  | - |  | 
+ |  | - |  | 
+ |  | - |  | 
+ |  | - |  | 
