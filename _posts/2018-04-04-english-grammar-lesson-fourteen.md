@@ -21,3 +21,28 @@ Alguns adjetivos mais usados:
 big/large | grande | - | litle/small | pequeno
 black | preto | - | white | branco
 blunt | cego | - | sharp | afiado
+calm | calmo | - | rough | rude
+clean | limpo | - | dirty | sujo
+closed | fechado | - | open | aberto
+crooked | torto | - | straight | reto
+dark | escuro | - | light | claro
+deep | profundo | - | shallow | raso
+dry | seco | - | wet | molhado
+empty | vazio | - | full | cheio
+fast | rápido | - | slow | vagaroso
+fat | gordo | - | thin | magro
+happy | feliz | - | sad | triste
+hard/difficult | difícil | - | easy/simple | fácil 
+high | alto | - | low | baixo(objeto)
+hot | quente | - | cold | frio
+long | comprido | - | short | curto
+loose | largo, frouxo | - | tight | apertado
+narrow | estreito | - | wide | largo
+nasty | desagradável | - | nice | agradável
+new | novo | - | old | velho
+rough | àspero | - | smooth | liso
+steep | íngreme | - | gradual | suave
+strong | forte | - | weak | fraco
+tall | alto | - | short | baixo(p/ pessoas)
+ugly | feio | - | pretty | bonito
+young | jovem(p/pessoa) | - | old | velho
