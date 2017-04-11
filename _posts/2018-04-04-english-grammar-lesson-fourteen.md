@@ -137,6 +137,8 @@ Exemplos:
 * He gave me further explanations
 * This is the oldest book of the library
 
+Observação: elder não pode ser usado con o than.
+
 
 
 
