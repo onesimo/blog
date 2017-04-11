@@ -5,12 +5,12 @@ date:   2018-04-09 17:18:00
 categories: English grammar lesson
 ---
 
-**Some** - algum(s), alguma(s), um pouco.
+ **Some** - algum(s), alguma(s), um pouco.
 É usado em orações afirmativas:
 
 Exemplos: I have **Some** problems to solve.
 
-Any - algum(s), alguma(s), um pouco, nenhum, nenhuma.
+ **Any** - algum(s), alguma(s), um pouco, nenhum, nenhuma.
 É usado em orações negativas e interrogativas.
 
 Exemplos: I have not any problem to solve.
