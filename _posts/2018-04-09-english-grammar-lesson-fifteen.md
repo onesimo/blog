@@ -5,7 +5,7 @@ date:   2018-04-09 17:18:00
 categories: English grammar lesson
 ---
 
- **Some** - algum(s), alguma(s), um pouco.
+__Some__ - algum(s), alguma(s), um pouco.
 É usado em orações afirmativas:
 
 Exemplos: I have **Some** problems to solve.
