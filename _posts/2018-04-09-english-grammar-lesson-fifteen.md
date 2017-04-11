@@ -5,10 +5,10 @@ date:   2018-04-09 17:18:00
 categories: English grammar lesson
 ---
 
-Some - algum(s), alguma(s), um pouco.
+**Some** - algum(s), alguma(s), um pouco.
 É usado em orações afirmativas:
 
-Exemplos: I have some problems to solve.
+Exemplos: I have **Some** problems to solve.
 
 Any - algum(s), alguma(s), um pouco, nenhum, nenhuma.
 É usado em orações negativas e interrogativas.
@@ -92,8 +92,8 @@ Observações:
  - 1 "Some" e seus derivados podem ser usados em orações interrogativas quando esperamos uma resposta afirmativa e quando fazemos um oferecimento ou pedido:
 
  Exemplos
- 	- Do you want some cigarretes? Yes, of course!
- 	- Do you want some toasts?
+ 	- Do you want **Some** cigarretes? Yes, of course!
+ 	- Do you want **Some** toasts?
 
  - 2 Se any e seus derivados forem usados na afirmativa, seu sentido se alterará:
 
