@@ -104,7 +104,7 @@ Podem substituir **much** e **many**.
 
 Exemplos:
 	
-	- I saw **a lot of** people at the movies.
-	- We have **lots of** things to do.
+- I saw **a lot of** people at the movies.
+- We have **lots of** things to do.
 
 
