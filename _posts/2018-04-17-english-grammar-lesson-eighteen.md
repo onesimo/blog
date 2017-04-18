@@ -94,7 +94,7 @@ c) Verbos de "pensamento": understand, know, remember, forget, etc.
 Exemplos:
 
  - I remember you know = Estou me lembrando de você agora **ou** Eu lembro de você agora.
-
+ 
 b) Verbos de "posse": own (possuir), belong (pertencer), owe (dever), have (ter), etc,=.
 
 Exemplos:
@@ -125,4 +125,4 @@ Exemplos:
 
  - Were you sleeping when I telephoned?
  - No, we weren't sleeping. We were playing cards.
- 
+
