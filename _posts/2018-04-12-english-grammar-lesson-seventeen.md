@@ -58,7 +58,7 @@ to fix (consetar) | He fixes
 to buzz (zumbir) | It buzzes
 to do (fazer) | She does
 
-##Advérbios usados no Simple Present:
+Advérbios usados no Simple Present:
 
 always | sempre
 never | nunca
@@ -113,4 +113,4 @@ Short Answers:
  - Yes, I do. No, I don't.
  - Does she speaks French?
  - Yes, he does. No, he dosen't.
- 
+
