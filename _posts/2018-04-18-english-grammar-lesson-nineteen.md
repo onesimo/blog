@@ -14,7 +14,7 @@ Caracterizamos os verbos regulares pelo acréscimo do sufixo **ed** no "Simple P
 Os verbos irregulares não obedecem a nenhuma regra quanto a sua formação.
 
 
- | Infinitivo | Passado | Particípio Passado
+|Infinitivo | Passado | Particípio Passado
 --------------|------------|---------|--------------------
 Verbo Regular | to open | opened | opened
 Verbo Irregular | to go | went | gone  
