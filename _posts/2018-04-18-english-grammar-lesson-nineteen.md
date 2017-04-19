@@ -18,3 +18,20 @@ Os verbos irregulares não obedecem a nenhuma regra quanto a sua formação.
 --------------|------------|---------|--------------------
 Verbo Regular | to open | opened | opened
 Verbo Irregular | to go | went | gone  
+
+
+Assim, para formarmos o "Simple Past" e o "Past Participle" dos verbos regulares basta acrescentarmos o sufixo **ed** ao infinitivo sem o **to**, mas para isso, devemos obedecer certas regras:
+
+a) Os verbos terminados em **e** só recebem o sufixo **d**.
+
+ - to change - changed
+ - to close - closed
+ - to drive - drived
+
+b) Se o verbo terminar em **y** precedido de consoante, troca-se o **y** por **i** e acrescenta-se **ed**
+
+ - to play - played
+ - to obey - obeyed
+ - to delay - delayed
+
+ 
