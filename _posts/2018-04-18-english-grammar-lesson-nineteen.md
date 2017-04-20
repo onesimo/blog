@@ -34,4 +34,16 @@ b) Se o verbo terminar em **y** precedido de consoante, troca-se o **y** por **i
  - to obey - obeyed
  - to delay - delayed
 
+c) Os verbos monossilábicos e os de duas sílabas, sendo a última tônica, terminados em consoante - vogal - consoante, terão a última consoante dobrada
+
+ - to occurd - occured (ocorrer)
+ - to prefer - preferred (preferir)
+ - to rob - robbed (roubar)
+ - to stop - stopped (parar)
+
+SIMPLE PAST
+
+Um verbo conjugado no "simple past" matém a mesma forma para todas as pessoas.
+
+
  
