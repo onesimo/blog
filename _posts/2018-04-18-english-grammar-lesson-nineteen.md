@@ -46,4 +46,93 @@ SIMPLE PAST
 Um verbo conjugado no "simple past" matém a mesma forma para todas as pessoas.
 
 
+Verbo Regular - Verbo Irregular
+
+Affirmative
+
+to work (trabalhar) | to go(ir)
+--------------------|----------
+I worked | I went
+You worked | You went
+He worked | He went
+She worked | She went
+It worked | It went
+We worked | We went
+You worked | you went 
+They worked | They went
+
+Interrogative
+
+to work (trabalhar) | to go(ir)
+--------------------|----------
+Did I work? | Did I go?
+Did you work? | Did you go?
+Did he work? | Did he go?
+Did she work? | Did she go?
+Did it work? | Did it go?
+Did we work? | Did we go?
+Did you work? | Did you go?
+Did they work? | Did they go?
+
+Negative
+
+to work (trabalhar) | to go(ir)
+--------------------|----------
+I did not work | I did not go
+You did not work | You did not go
+He did not work | He did not go
+She did not work | She did not go
+It did not work | It did not go
+We did not work | We did not go
+You did not work | We did not godid not go 
+They did not work | They did not go
+
+Forma contracta: did not = didn't
+
+Short Answer
+
+ - Did you wash the dishes yesterday?
+ - Yes, I did. No, I didn't.
+ - Did Paul go out last night?
+ - Yes, he did. No he didn't.
+
+O "Simple Past" expressa:
+
+a) Uma ação que aconteceu em um tempo definido no passado.
+
+Exemplos:
+
+ - She went to the movies last night.
+ - I lived in London for two years (2006-2008).
+
+c) Ações consecutivas ocorridas no passado.
+
+Exemplos:
  
+ - She heard a noise and went to see what it was.
+ - He had an accident with his car and decided to keep quite about it.
+
+Advérbios usados no Simple Past
+
+ - yestday - ontem
+ - the day before yesterday - anteontem
+ - last night - a noite passado
+ - last week/month/year/Sunday - semana passada...
+ - last winter, etc. - o inverno passado
+ - a two,three...minutes/... ago - a um, dois... minutos atrás
+ - in 1990, etc. - em 1990, etc.
+
+ VERBOS IRREGULARES MAIS USADOS
+
+ Infinitive | Past | Past Participle | Translation
+------------|------|-----------------|------------
+to be | was/were | been | ser/estar
+to bear | bore | born/borne | gerar
+to beat | beat | beaten | bater, derrotar
+to become | became | become | tornar-se
+to begin | began | begun | começar
+to bend | bent | bent | curvar-se
+to bet | bet | bet | apostar
+to bid | bade | bidden | ordenar, saldar
+to bind | bound | bound | amarrar
+to bite | bit | bitten | morder, picar   
