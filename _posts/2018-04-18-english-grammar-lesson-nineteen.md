@@ -135,4 +135,127 @@ to bend | bent | bent | curvar-se
 to bet | bet | bet | apostar
 to bid | bade | bidden | ordenar, saldar
 to bind | bound | bound | amarrar
-to bite | bit | bitten | morder, picar   
+to bite | bit | bitten | morder, picar
+to breed | bred | bred | criar, educar
+to bring | brought | brought | trazer
+to build | built | built | construir
+to burn | burnt/burned | burnt/burned | queimar
+to burst | burst | burst | explodir
+to buy | bought | bought | comprar
+to cast | cast | cast | arremessar, calcular
+to catch | caught | caught | apanhar, pegar
+to choose | chose | chosen | escolher
+to cling | clung | clung | aderir
+to clothe | clad/clothed | clad/clothed | vestir, revestir
+to come | came | come | chegar, vir
+to cost | cost | cost | custar
+to creep | | crept | crept | arrastar-se
+to cut | cut | cut | cortar
+to dare | durst | durst | desafiar, ousar
+to dig | dug | dug | cavar
+to do | did | done | fazer, executar
+to draw | drew | draw | desenhar
+to dream | dreamt/dreamed | dreamt/dreamed | sonhar
+to drink | drank | drunk | beber, embriagar-se
+to drive | drove | driven | dirigir
+to eat | ate | eaten | comer 
+
+
+ Infinitive | Past | Past Participle | Translation
+------------|------|-----------------|------------
+to fall | fell | fallen | cair
+to feed | fed | fed | alimentar
+to feel | felt | felt | sentir
+to fight | fought | fought | lutar
+to find | found | found | encontrar
+to fly | flew | flown | voar
+to forbid | forbade | forbidden | proibir
+to forgive | forgave | forgiven | perdoar
+to forget | forgot | forgotten | esquecer-se
+to get | got | got/gotten | conseguir, ganhar
+to five | gave | given | dar
+to grow | grew | grown | crescer, cultivar
+to hang | hung | hung | pendurar
+to have | had | had | ter
+to hear | heard | heard | ouvir
+to hide | hid | hidden | esconder
+to hit | hit | hit | bater
+to hold | held | held | segurar, manter
+to hurt | hurt | hurt | ferir
+to keep | kept | kept | guardar, permanecer
+to kneel | knelt | knelt | ajoelhar-se
+to know | knew | known | conhecer, saber
+to lay | laid | laid | pôr, colocar, botar(ovos)
+to lead | led | led | conduzir, comandar
+to lean | leant/leaned | leant/leaned | apoiar-se, encostar-se
+to learn | learnt/learned | learnt/learned | aprender
+to leave | left | left | deixar, sair, abandonar
+to lend | lent | lent | emprestar
+to let | let | let | deixar, permitir
+to lie | lay | lain | estar deitado, jazer
+to light | lit/lighted | lit/lighted | acender
+to lose | lost | lost | perder
+to make | made | made | fazer, produzir
+to mean | meant | meant | significar, pretender
+to meet | met | met | encontrar-se
+to overcome | overcame | overcome | vencer, conquistar
+to pay | paid | paid | pagar
+to put | put | put | pôr, colocar
+to quit | quit | quit | desistir
+
+
+ Infinitive | Past | Past Participle | Translation
+------------|------|-----------------|------------
+to read | read | read | ler
+to rend | rent | rent | ragar
+to rid | rid | rid | livrar-se
+to ride | rode | ridden | cavalgar, pedalar
+to ring | rang | rung | soar, ocar
+to rise | rose | risen  | nascer, elevar-se
+to run | ran | run | correr
+to say | said | said | dizer
+to see | saw | seen | ver
+to sell | sold | sold | vender
+to send | sent | sent | enviar, remeter
+to sew | sewed | sewwed/sewn | costurar
+to shake | shook | shaken | sacudir, agitar
+to shine | shone | shone | brilhar
+to shoot | shot | shot | atirar, fuzilar
+to show | showed | showed/shown | exibir, mostar
+to shut | shut | shut | fechar, tapar
+to sing | sank | sunk | afundar, naufragar
+to sit | sat | sat | sentar
+to slay | slew | slain | matar, destruir
+to slide | slid | slid | escorregar, deslizar
+to smell | smelt/smelled | smelt/smelled | cheirar, suspeitar
+to speak | spoke | spoken | falar
+to speed | sped/speeded | sped/speeded | apressar-se
+to spend | spent | spent | passar, gastar
+to spit | spat | spat | cuspir
+to split | split | split | dividir
+to spread | spread | spread | espalhar, divulgar
+to stand | stood | stood | ficar de pé
+to steal | stole | stolen | furtar, roubar
+to sting | stung | stung | picar
+to strike | struk | struk | fazer greve, brigar, golpear, dar badalada (relógio)
+to swear | swore | sworn | jurar, blasfemar
+to sweep | swept | swept | varrer
+to swim | swam | swum | nadar
+to swing | swung | swung | balancar
+
+ Infinitive | Past | Past Participle | Translation
+------------|------|-----------------|------------
+to take | took | taken | tomar, pegar
+to teach | taught | taught | ensinar
+to tear | tore | torn | rasgar, romper
+to tell | told | told | contar
+to think | thought | thought | pensar, achar
+to throw | threw | thrown | arremassar, atirar
+to trust | trust | trust | confiar, crer
+to understand | understood | understood | entender
+to wake | woke/waked | woke/waked | acordar
+to wear | wore | worn | usar, vestir
+to weep | wept | wept | chorar, lamentar-se
+to wet  | wet/wetted | wet/wetted | molhar
+to win | won | won | vencer, ganhar, obter
+to write | wrote | written | escrever
