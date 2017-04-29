@@ -126,7 +126,7 @@ Advérbios usados no Simple Past
 
  Infinitive | Past | Past Participle | Translation
 ------------|------|-----------------|------------
-to be | was/were | been | ser/estar
+to be       | was/were | been | ser/estar
 to bear | bore | born/borne | gerar
 to beat | beat | beaten | bater, derrotar
 to become | became | become | tornar-se
@@ -149,7 +149,7 @@ to cling | clung | clung | aderir
 to clothe | clad/clothed | clad/clothed | vestir, revestir
 to come | came | come | chegar, vir
 to cost | cost | cost | custar
-to creep | | crept | crept | arrastar-se
+to creep | crept | crept | arrastar-se
 to cut | cut | cut | cortar
 to dare | durst | durst | desafiar, ousar
 to dig | dug | dug | cavar
@@ -163,7 +163,7 @@ to eat | ate | eaten | comer
 
  Infinitive | Past | Past Participle | Translation
 ------------|------|-----------------|------------
-to fall | fell | fallen | cair
+to fall     | fell | fallen | cair
 to feed | fed | fed | alimentar
 to feel | felt | felt | sentir
 to fight | fought | fought | lutar
@@ -173,7 +173,7 @@ to forbid | forbade | forbidden | proibir
 to forgive | forgave | forgiven | perdoar
 to forget | forgot | forgotten | esquecer-se
 to get | got | got/gotten | conseguir, ganhar
-to five | gave | given | dar
+to give | gave | given | dar
 to grow | grew | grown | crescer, cultivar
 to hang | hung | hung | pendurar
 to have | had | had | ter
@@ -206,7 +206,7 @@ to quit | quit | quit | desistir
 
  Infinitive | Past | Past Participle | Translation
 ------------|------|-----------------|------------
-to read | read | read | ler
+to read     | read | read | ler
 to rend | rent | rent | ragar
 to rid | rid | rid | livrar-se
 to ride | rode | ridden | cavalgar, pedalar
@@ -245,7 +245,7 @@ to swing | swung | swung | balancar
 
  Infinitive | Past | Past Participle | Translation
 ------------|------|-----------------|------------
-to take | took | taken | tomar, pegar
+to take    | took | taken | tomar, pegar
 to teach | taught | taught | ensinar
 to tear | tore | torn | rasgar, romper
 to tell | told | told | contar
