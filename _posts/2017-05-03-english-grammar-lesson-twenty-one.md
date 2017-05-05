@@ -6,7 +6,7 @@ categories: English grammar lesson
 ---
 
 Usamos o Simple Future para expressar uma ação que ocorrerá no futuro. É Formado por: auxiliar + verbo no infinitivo (sem to).
-Auxiliares: **will** para todas as pessoas e, ocasionalmente, **shal** para as primeiras pessoas do singular(I) e do plural(we). 
+Auxiliares: **will** para todas as pessoas e, ocasionalmente, **shall** para as primeiras pessoas do singular(I) e do plural(we). 
 
 
 Verbo to sing (cantar)
