@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre Onésimo Batista
-cover: '/assets/images/chile_atacama_06.jpeg'
+cover: '/assets/images/chile_atacama_0.jpeg'
 ---
 
 Programador Web, musicista, mineiro que atualmente reside em São Paulo.

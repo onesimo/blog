@@ -5,7 +5,7 @@ meta_description: "Onésimo Batista, Tech, Music, Languages"
 markdown: kramdown
 highlighter: rouge
 logo: false
-paginate: 15
+paginate: 10
 baseurl: /
 domain_name: 'https://onesimo.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
