@@ -5,7 +5,7 @@ date:   2018-05-05 20:58:00
 categories: English grammar lesson
 ---
 
-**ABOUT - sobre, a cerca de, aproximadamente
+**ABOUT** - sobre, a cerca de, aproximadamente
 
  - He has told me **about** you.
  - I woke up at **about** six o'clock this morning.
@@ -72,7 +72,7 @@ categories: English grammar lesson
  
  - Marta has two boyfriend **besides** him. Marta tem dois namorados além dele.
 
-**BETWEEN** entre (dois)
+**BETWEEN** - entre (dois)
 
  - I saw a terrible flight **between** two men.
 
@@ -112,7 +112,7 @@ Exceções:
 
  - Robert bought a gift **for** Sandra.
 
-**FROM** de (origem, procedência)
+**FROM** - de (origem, procedência)
 
  - This toy is **from** Japan.
 
@@ -202,8 +202,20 @@ Exceções:
 
 **UP** - para cima
 
- - The brave fireman climbed **up** the ladder and rescued the baby.
+ - The brave fireman climbed **up** the ladder and rescued the baby. O valente bombeiro subiu na escada e resgatou o bebê.
 
+**UPON - ON** - sobre em
 
+ - There is a carpet **on** the floor. Há um tapete no chão.
 
+**WITH** - com
 
+ - He sharpened his pencil with a penknife. Ele apontou seu lápis com um canivete.
+
+**WITHIN** - dentro de (período de tempo)
+
+ - He will be back home **within** two months.
+
+**WITHOUT** - sem
+
+ - They went out **without** money.
