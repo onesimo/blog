@@ -6,11 +6,11 @@ categories: English grammar lesson
 ---
 
 
-**ACCORDING TO - de acordo com
+**ACCORDING TO** - de acordo com
 
  - He acted according to my instructions.
 
-**AS FOR/TO - quanto
+**AS FOR/TO** - quanto
 
  - I have no doubts/ **as for/to** his special abilities.
 
@@ -73,3 +73,5 @@ categories: English grammar lesson
 
 
 PREPOSITION AFTER VERBS, ADJECTIVES AND NOUNS
+
+..
