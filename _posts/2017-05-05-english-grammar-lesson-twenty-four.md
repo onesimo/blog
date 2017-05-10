@@ -76,7 +76,7 @@ PREPOSITION AFTER VERBS, ADJECTIVES AND NOUNS
 
 **to be anxious about/for** - estar ansioso por, para
 
- - I'**m anxious about travelling to the United States.
+ - I'**m anxious** about travelling to the United States.
 
 **boast about/of** - gabar-se de
 
@@ -181,11 +181,11 @@ PREPOSITION AFTER VERBS, ADJECTIVES AND NOUNS
 
  - It's not polite to **laugh at** someone.
 
-**look at - olhar para
+**look at** - olhar para
 
  - He **looked at** her when she passed.
 
-**play at - explicar
+**play at** - explicar
 
  - Should you **play at** this exercise, please?
 
@@ -278,7 +278,7 @@ OUTRAS EXPRESSÕES:
 
 **care for** - gostar, apreciar
 
- - I **care for** a good reading
+ - I **care for** a good reading. Eu aprecio uma boa leitura.
 
 **charged for** - cobrado por
 
@@ -324,7 +324,7 @@ OUTRAS EXPRESSÕES:
 
 **excused from** - dispensado de
 
- - She was **excused from** sitting the exam.
+ - She was **excused from** sitting the exam. Ela foi dispensada de prestar o exame.
 
 **suffer from** - sofrer de
 
@@ -344,8 +344,154 @@ OUTRAS EXPRESSÕES:
  - A thief **broke into** my house and took much money.
  Um ladrão arrombou minha casa e levou muito dinheiro.
 
- **call in**- consultar
+**call in**- consultar
 
   - He must **call in** a specialist. Ele deve consultar um especialista.
 
+**come in** - chegar, começar, entrar na moda, entrar
+
+ - He **came in** early yesterday.
+ - Spring **came in** late this year.
+ - Short skirts have **come in** this year.
+ - **Come in** and shut the door, please.
+
+**dressed in** - vestido de(cor)
+
+ - She was so pretty **dressed in** blue.
+
+**drop in** - parar para visitar
+
+ - A friend of mine **dropped in** to see me yesterday.
+ Um amigo meu parou para me visitar ontem.
+
+**fail in** - falhar, ser reprovado.
+ 
+ - She **falied in** her exam.
+
+**fill in** - preencher.
+
+ -**Fill in** the form, please.
+
+**Outras expressões:
+
+**In fact** - na verdade, de fato
+
+ - **In fact**, I don't believe in anything.
+
+**In a hurry - com pressa
+
+ - That girl always appears to be **in a hurry**.
+
+**in time** - a tempo
+
+ - **He arrived **in time** for lunch.
+
+**OF**
+
+**beware of** - cuidado com
+
+ - **Beware of** the dog!
+
+**consist of** - consistir em
+
+ - Water **consists of** hydrogen and oxygen
+
+**envious of** - She's **envious of** his success.
+
+**fond of** - gostar de 
+
+ - I'm **fond of** music
+
+**good of** - bondade da parte de alguém
+
+ - I was **good of** you to come. Foi bondade de sua parte ter vindo.
+
+**jealous of** - ciumento de, ter ciúme de 
+
+ - He was never **jealous of** anyone.
+
+**OFF**
+
+**break off** - parar, interremper
+
+ - It's impolite to **break** a conversation **off** when somebody comes in. É fata de educação interromper uma conversa quando alguém entra.
+
+**call off** - cancelar
+
+ - The meeting was **called of** because of the rain.
+
+**make off** - fugir
+
+ - The thief **made of** with all the jewels
+
+**put off** - adiar
+
+  - We are going to **put** the meeting **of** until next week.
+
+**take of** - despir, descolar
+
+  - Your coat is wet, **take** it **of**.
+  - The plane **took of** at four.
+
+ **Outras expressões:
+
+**off duty**- de folga X on duty - de serviço
+ 
+ - We never know what to do when we are **off duty**.
+
+ **ON**
+
+**act on** - seguir
+
+  - Have you **acted on** my adive?
+
+**based on/upon** - baseado em
+
+  - This story is **based on** a real accident.
+
+**bring on** - causar, produzir
+ 
+ - Heat **brings on** the fever. O calor causa a febre.
+
+**call on** - visitar
+
+ - My uncle **called on** us last saturday.
+
+**concentrate on** - concentra-se em
+
+ - I can't **concentrate on** my reading in a noisy room.
+
+**congratulate on/upon** - congratular, felicitar por
+
+ - I **congratulated** the winter **on** his success.
+
+**depend on/upon** - depender de
+
+ - Children **depend on** their parents for suport.
+
+**get on** - entrar em um veículo, progredir
+
+ - As soon as I **got on** the bus it began to rain
+
+**go/keep on** - continuar
+
+ - She **went/kept on** talking when I came in
+
+**insist on** - insisir em
+ 
+ - They **insisted on** going with me.
+
+**put on** - vestir, pôr
+
+ - Bob **put** his coat **on** when he left the house.
+
+**swear on** - jurar sobre
+
+ - She **swore on** the Bible she was telling the truth.
+
+**Outras expressões**:
+
+**on and on** - sem parar
+
+ - That boy talks **on and on**. 
 
