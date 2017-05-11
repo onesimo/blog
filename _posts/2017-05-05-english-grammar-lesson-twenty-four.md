@@ -8,7 +8,7 @@ categories: English grammar lesson
 
 **ACCORDING TO** - de acordo com
 
- - He acted according to my instructions.
+ - He acted **according to** my instructions.
 
 **AS FOR/TO** - quanto
 
@@ -486,7 +486,7 @@ OUTRAS EXPRESSÕES:
  - Bob **put** his coat **on** when he left the house.
 
 **swear on** - jurar sobre
-
+on duty
  - She **swore on** the Bible she was telling the truth.
 
 **Outras expressões**:
@@ -495,3 +495,234 @@ OUTRAS EXPRESSÕES:
 
  - That boy talks **on and on**. 
 
+**on purpose** - de propósito
+
+ - He broke her glasses **on purpose**.
+
+**on the other hand** - por outro lado
+
+ - **On the other hand**, we may sucessed. Por outro lado, nós poderemos ser bem sucedidos.
+
+**on time** - em cima da hora
+
+ - He arrived **on time** for lunch. Ele chegou em cima da hora para o almoço
+
+**OUT** 
+
+**break out** -  escapar, começar de repente
+
+ -The prisoner **broke out** of jail.
+ -An epidemic has **broken ou**.
+
+**carry out** - executar
+
+ - The architect's plans have been **carried out**.
+
+**come out** - aparecer
+
+ - The flowers **come out** in spring.
+
+**cut ou** - parar
+
+**figure out** - entender
+ 
+ - No one can **figure out** what she means.
+
+**find out** - descobrir
+
+ - They couldn't **find out** the mistake.
+
+**get/go out** - sair
+
+ - He was said to **get/go** of the classroom.
+
+**look out** - tome cuidado
+
+ - **Look out** for cars when you cross the street.
+
+**make out** - entender, distinguir
+
+ - I can't **make out** your letter.
+ - I can't **make out** who is walking down the street.
+
+**pick out** - escolher
+
+ - He **pointed out** the right answer to me.
+ - May I **point out** that if we don't leave now we will miss the bus. Posso saliente que se não partimos agora perderemos o ônibus.
+
+**put out** - apagar, irritar
+
+ - He **put out** the light.
+ - His behavior **puts* her **out**. O comportamento dele a irrita.
+
+**washed out** - exausto
+
+ - She looked thoroughly **washed out**. Ela parecia totalmente exausta.
+
+**work out** - resolvar
+
+ - He **worked out** the problem in five minutos.
+
+**OVER**
+
+**to be over** - terminar
+
+ - The class **is over** for today.
+
+**carry over** - adir
+
+ - We will **carry** the meeting **over** to next week.
+
+**get over** - recuperar-se
+
+ - She **got over** pneumonia very quickly.
+
+**look over/through** examinar
+
+ - You should **look** your test **over** before you hand it in. Vocẽ deveria examinar seu teste antes de entregá-lo.
+
+**make over** - tranferir legalmente
+
+ - He **made over** all this property to his son. Ele transferiu todos os seus bens para o seu filho.
+
+**think over** - considerar, ponderar
+
+ - We've **thought** the matter **over** and reached a decision. Nós consideramos o problema e chegamos a uma decisão;
+
+**TO**
+
+**accustomed to** - acostumado a
+
+ - He wasn't **accustomed to** get up early.
+
+**answer/account to** - dar satisfação a, responder
+
+ - She had to **answer to** her father for her behavior.
+
+**apologize to ... for** - pedir desculpas a ... por
+
+ - He **apologized to** her for his bad temper.
+
+**apperent to** - evidente a
+
+ - His happiness was **apparent to** everyone.
+
+**belong to** - pertence a
+
+ - THis book **belongs to** me.
+
+**blind/deaf to** - cego/surdo a
+
+ - She  was **blind/deaf to** his dishonesty.
+
+**drink to** - brindar a
+
+ - They **drank to** better days.
+
+**faithful to** - fiel a
+
+ - He's **faithful to** his wife.
+
+**good/kind to** - gentil com
+
+ - He was very **good/kind to** the needy;  Ele era muito gentil com os necessitados.
+
+**injurious to** - prejudicial a 
+
+ - Smoking is **injurious to** health.
+
+**listen to** - ouvir, prestar atenção
+
+ - They **listend** carefully **to** his instructions.
+
+**object to** - opor-se, fazer objeção a
+
+ - Do you **object to** my smoking? Você faz objeção que eu fume?
+
+**pay attention to** - prestar atenção a
+
+ - Please, **pay** attention **to** what I'm saying.
+
+**prefer ...to ** - preferir ... a
+
+ - I **prefer** chocolate **to** a ice cream.
+
+**see to** - providenciar
+ 
+  - She will **see to** the arrangements for the party. Ela providenciará os preparativos para a festa.
+
+**treat to** - convidar e pagar
+
+ - He **treated** her **to** a drink.
+
+**trust to** - acrediar em
+
+ - I **trust to** his honesty.
+
+**UP**
+
+**to be up** - tempo esgotado
+
+ - Time's **up**. Stop writing.
+
+**to be up to** - pronto para, capaz de
+
+ - She's **up** to go out.
+ - He's **up** to walk for hours.
+
+**blow up** - explodir
+
+ - The saboteurs **blew up** a plane.
+
+**break up** - colocar um fim um
+
+ - The police **broke up** the meeting.
+
+**call up** - telefonar
+ 
+ - My girlfriend **called** me **up** this morning.
+
+**do up** - abotoar, decorar, pintar
+
+ - She **did up** her coat. Ela abotoou seu casaco.
+ - She **did up** the house. Ela decorou a casa.
+
+**get up** - levantar
+ 
+ - He **got up** early today.
+
+**give up** - desistir
+
+ - He **gave up** smoking last week.
+
+**let up** - para 
+
+ - If the rain **lets up**, we can go out.
+
+**look up** - procurar, progredir
+
+ - **Look up** the meaning of this word in a dictionary. Produce o significado desta palavra em um dicionário.
+
+**make up** - preparar, inventar, maquilar-se
+
+ - She's **making up** the list of the guests for the party.
+ - He **made up** a story to amuse us.  Ele inventou uma história para nos entreter.
+ - She likes to **make up** before going out.
+
+**pick up** - apanhar alguém
+
+ - He'll **pick** me **up** at seven.
+
+**shut up** - para de falar, cale a boca.
+
+ - **Shut up!** You are disturbing the class.
+
+**stand up** - ficar de pé
+
+ - **Stand up!** It's your turn.
+
+**Outras expressões:**
+
+**up to date** - atual, na moda
+
+ - That woman is always **up to date**. 
