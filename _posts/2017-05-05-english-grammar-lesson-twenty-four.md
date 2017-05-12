@@ -384,7 +384,7 @@ OUTRAS EXPRESSÕES:
 
 **in time** - a tempo
 
- - **He arrived **in time** for lunch.
+ - He arrived **in time** for lunch.
 
 **OF**
 
