@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  "#EnglishGrammar, Lesson Twenty-nine - Modal Verbs"
 date:   2017-05-13 18:40:00
@@ -195,7 +195,7 @@ Não possuem sinônimos e podem ser empregados no presente, passado ou futuro. E
 Exemplos:
 
  - He **ought to/should** get up earlier. Ele deveria acordar mais cedo.
- - He **ought should** have got up earlier got up earlier. Ele teve que acordar mais cedo.
+ - He **ought/should** have got up earlier got up earlier. Ele teve que acordar mais cedo.
  - He **ought to/should** get up earlier tomorrow. Ele teŕa que acordar mais cedo amanhã.
 
 **Should** é mais usado que **ought** para indicar uma recomendação. É particularmentente usado para se pedir um conselho.
