@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#EnglishGrammar, Lesson-six - Relative Pronouns, Defining and non-definig clauses"
+title:  "#EnglishGrammar, Lesson Twenty-six - Relative Pronouns, Defining and non-definig clauses"
 date:   2017-05-12 22:00:00
 categories: English grammar lesson
 ---
