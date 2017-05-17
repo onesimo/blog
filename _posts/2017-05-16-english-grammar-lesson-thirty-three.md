@@ -165,3 +165,21 @@ Exemplos:
 Obs.: **to lie - lied - lied** - mentir
 
  - Don't **lie!**
+
+**TO RAISE X TO RISE**
+
+**to raise - raised - raised** - levantar** - levantar, erguer. É um verbo transitivo direto.
+
+Exemplos:
+
+ - I **raise my voice** to call attention.
+ - Please, **raise this chair** for me.
+ - He can **raise two tables**at the same time.
+
+**to rise - rose - risen** - levantar-se, erguer-se, aumentar, subir.
+
+Exemplos:
+
+ - Her voice **rises** when she is nervous.
+ - The prices **rise** almost every day.
+ - As he heard the door opening, he **rose** immediately.
