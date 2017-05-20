@@ -46,7 +46,7 @@ Exemplos:
  - **You have read** this book, **haven't you**?
  - **Mary and Harry had arrived, hadn't they**?
 
-**Future
+**Future**
 
  - **Thomas will** be a doctor, **won't he**?
  - **Gordon and you won't** arrive late, **will you**?
@@ -57,7 +57,7 @@ Exemplos:
  - **My mother couldn't** understand, **could she**?
  - **You must** go home, **mustn't you**?
  - **He shouldn't** sing, **should he**?
- - **Carol would** mind playing cards, **wouldn't she?
+ - **Carol would** mind playing cards, **wouldn't she**?
 
 **Obs**.
 
@@ -89,6 +89,6 @@ Exemplos:
 
  - **Let's go** home, **shall we**?
 
- 
+
 
 
