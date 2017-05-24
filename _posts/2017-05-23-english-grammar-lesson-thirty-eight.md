@@ -24,7 +24,7 @@ Exemplos:
  - **By the time** I get to London, she'll be rising.
  - The boy will be in his room **until** his father let him go out.
  - **When** they returned from their honeymoon, their apartament was ready.
- - My aunt will visit us **whenever** she comes to São Paula.
+ - My aunt will visit us **whenever** she comes to São Paulo.
  - She put the dishes into the machine **while** her husband was watching TV.
 
 Obs.: 
