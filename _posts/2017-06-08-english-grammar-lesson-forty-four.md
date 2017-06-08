@@ -5,7 +5,7 @@ date: 2017-06-08 22:30:00
 categories: English grammar lesson
 ---
 
-**A**
+## A
 
 **a big hand** | um aplauso caloro
 **about of** | a ponto de
@@ -27,7 +27,7 @@ categories: English grammar lesson
 **all day long** | o dia inteiro
 **all for the best** | tudo para o melhor 
 **all good things must come to an end** | tudo o que é bom dura pouco
-**all in** | exauto
+**all in** | exausto
 **all in all** | de um modo geral
 **all of a sudden** | de um modo geral
 **all out** | completo
