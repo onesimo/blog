@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "#EnglishGrammar, Lesson Forty-four - Expressões Idiomáticas"
-date: 2017-06-01 22:30:00
+date: 2017-06-08 22:30:00
 categories: English grammar lesson
 ---
 
-A
+**A**
 
 **a big hand** | um aplauso caloro
 **about of** | a ponto de
