@@ -5,7 +5,7 @@ date: 2017-06-08 22:30:00
 categories: English grammar lesson
 ---
 
-## A
+<center>**A**</center>
 
 **a big hand** | um aplauso caloro
 **about of** | a ponto de
