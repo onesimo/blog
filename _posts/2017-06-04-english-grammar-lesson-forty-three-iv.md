@@ -11,7 +11,7 @@ categories: English grammar lesson
 
 **politics** = política
 
- - She entered ino **politics**.
+ - She entered into **politics**.
 
 **porter** = carregador
  
