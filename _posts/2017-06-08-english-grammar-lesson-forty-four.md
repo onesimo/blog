@@ -5,7 +5,7 @@ date: 2017-06-08 22:30:00
 categories: English grammar lesson
 ---
 
-<center>**A**</center>
+<center> **A** </center>
 
 **a big hand** | um aplauso caloro
 **about of** | a ponto de
@@ -32,8 +32,8 @@ categories: English grammar lesson
 **all of a sudden** | de um modo geral
 **all out** | completo
 **allow for** | levar em conta
-**** | 
-**** | 
+**all the better** | melhor ainda
+**all there** | mentalmente são
 **** | 
 **** | 
 **** | 
