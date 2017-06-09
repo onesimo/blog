@@ -54,7 +54,7 @@ categories: English grammar lesson
 **as far as I'm concerned** | no que me diz respeito, quanto a mim
 **ask for one's hand** | pedir a mão de alguém em casamento
 **ask for the floor** | pedir a palavra
-**as long as = so long as ** | já que
+**as long as = so long as** | já que
 **as sure as eggs is eggs** | tão certo como dois e dois são quatro
 **at all** | de qualquer modo
 **at all costs** | a qualquer/todo custo
@@ -154,6 +154,6 @@ categories: English grammar lesson
 **butter wouldn't melt in her mouth** | falsa impressão, oposto ao que aparenta ser
 **buy off** | subornar
 **by all means** | sem dúvidas
-**by and large | de modo geral
+**by and large** | de modo geral
 **by no means** | de maneira alguma
 **by the skin of one's teeth** | por um fio, por um triz
