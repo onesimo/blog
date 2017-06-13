@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#EnglishGrammar, Lesson Forty-four - Expressões Idiomáticas A, B"
+title:  "#EnglishGrammar, Lesson Forty-four - Expressões Idiomáticas A, B, C"
 date: 2017-06-08 22:30:00
 categories: English grammar lesson
 ---
@@ -157,3 +157,90 @@ categories: English grammar lesson
 **by and large** | de modo geral
 **by no means** | de maneira alguma
 **by the skin of one's teeth** | por um fio, por um triz
+
+**C**
+
+**call a halt** | pôr um ponto final
+**call away/out** | gritar
+**call girl** | prostituta
+**call it quits** | dar por encerrado, dar-se por vencido
+**call one's bluff** | aceitar um desafio
+**call someone names** | aceitar um desafio
+**call the roll** | fazer a chamada
+**call to account** | pedir satisfações
+**can't helṕ** | não poder evitar
+**can't help but** | não há outro jeito senão
+**can't you take a joke?** | você não aceita/entende uma piada?
+**carry something too far** | exagerar
+**carry the day** | levar a melhor
+**carry weight** | possuir influência
+**castles is the air** | devaneios
+**cast light upon** | revelar
+**cast his lot with** | decidir seu destino ou sorte
+**catch (a) cold** | resfriar-se
+**catch it** | levar uma surra; ser castigado
+**catch one napping** | pegar alguém desapercebido
+**catch one's breath** | tomar fôlego, descansar
+**catch one's eye** | chamar a atenção de
+**catch up with** | alcançar
+**catch with the goods** | apanhar com a boca na botija
+**chain smoker** | pessoa que fuma demais
+**change of heart** | mudança de opnião
+**change one's mind** | mudar de idéia
+**change one's tune** | mudar de atitude
+**cheap skate** | pão duro, sovina
+**cheers!** | saúde! viva! bravo!
+**cheer up!** | Anime-se
+**chew the fat/rag** | tagarela
+**chick** | garota, boneca
+**chicken feed** | ninharia
+**chilled to the bone** | com muito frio, tremer até os ossos
+**clean slate** | boa reputação
+**clear out!** | Saia daqui!
+**close-mouthed** | discreto
+**cocheyed** | embriagado, estrábico
+**cold light of reason** | a verdade nua e crua
+**come down off one's high horse** | despretensioso
+**come into being** | surgir
+**come off with flying colors** | sair-se vitorioso
+**come to a halt** | terminar, cessar
+**come to blows** | brigar
+**come to grief** | sofre acidente
+**come to think of it** | pensando bem
+**come untied** | soltar-se
+**come what may** | aconteça o que acontecer
+**come within an inch of comic of** | escapar por um triz
+**comic strips = comics** | histórias em quadrinhos
+**coming up!** | já vou!
+**compare notes** | trocar idéias
+**confidence-man** | vigarista
+**constant dripping bores the stones** | água mole em pedra dura, tanto bate até que fura
+**cook up** | forjar
+**cool as cucumber** | senhor de si
+**cool one's heels** | ficar à espera
+**crack** | piada
+**crack down upon** | castigar
+**crack open** | expor
+**crackpot** | louco
+**cramp one's style** | causar constrangimento
+**crape-hanger** | desmancha-prazeres
+**cross as a bear** | furioso
+**cross one's mind** | vir à memória
+**cross one's path** | topar com, encontrar
+**cross up** | trair
+**crow over** | contar vitória sobre
+**cruising** | paquerando
+**cry for joy** | chorar de alegria
+**crying shame** | vergonha
+**cry murder** | grutar por socorro
+**cry one's eyes = heart out** | desmanchar-se em lágrimas
+**cry over spilled milk** | chorar pelo leite derramado, lamentar-se em vão
+**cry wolf** | dar rebate falso
+**curry favor with** | bajular
+**cut a class** | matar aula
+**cut corners** | economizar
+**cut down on** | gastar menos, economizar
+**cut it out!** | pare com isso!
+**cut no ice** | não convencer
+**cot one dead** | ignorar uma pessoa, fazer que não a conhece
+**cut to the quick** | ofender profundamente
